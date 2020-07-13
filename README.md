@@ -30,4 +30,4 @@ I deployed this using basic way.
 
    `npm start`
 
-**Note: This is only front-end source code, you need to have back-end source code. Check it [here](https://github.com/detectiveno2/2020-react-37-be)**
+**Note: This is only front-end source code, you need to have back-end source code. Check it [here](https://github.com/detectiveno2/2020-react-37-be).**
