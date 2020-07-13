@@ -1,6 +1,7 @@
 # Exercise React
 
 Exercise React for CoderX 2020 Course.
+
 Thanks to CodersX help me to complete this exercise.
 
 ## Deployment
@@ -26,6 +27,7 @@ I deployed this using basic way.
    `npm install`
 
 4. Run app:
+
    `npm start`
 
 **Note: This is only front-end source code, you need to have back-end source code. Check it [here](https://github.com/detectiveno2/2020-react-37-be)**
