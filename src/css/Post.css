@@ -1,0 +1,96 @@
+.Post {
+  background-color: #ffffff;
+
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+
+  width: 55%;
+  margin: 1rem auto;
+}
+
+.Post .PostPara {
+  margin: 0px;
+}
+
+.Post .PostTitle .ParaTitle {
+  font-weight: 500;
+
+  padding: 0.5rem 14px;
+}
+
+.Post .PostImage img {
+  width: 100%;
+}
+
+.Post .PostAction {
+  padding: 0.5rem 14px;
+}
+
+.Post .PostAction button {
+  background-color: #ffffff;
+
+  padding: 0px;
+  margin-right: 14px;
+
+  border: none;
+}
+
+.Post .PostAction button:focus {
+  outline: none;
+}
+
+.Post .PostLikes .PostPara {
+  font-weight: 500;
+  padding: 0px 14px;
+}
+
+.Post .PostCaptionArea {
+  padding: 4px 14px;
+}
+
+.Post .PostCaptionArea span {
+  font-weight: 500;
+}
+
+.Post .PostComment form {
+  display: flex;
+  width: 100%;
+}
+
+.Post .PostComment form input {
+  flex-grow: 1;
+  border: none;
+  padding: 6px 14px;
+}
+
+.Post .PostComment form input:focus {
+  outline: none;
+}
+
+.Post .PostComment form button {
+  background-color: #ffffff;
+  border: none;
+  color: #0095f6;
+  font-weight: 500;
+  padding: 0px 14px;
+}
+
+.Post .PostComment form button:focus {
+  outline: none;
+}
+
+.Post .PostComment form button:disabled {
+  opacity: 0.6;
+}
+
+.Post .PostCommentArea {
+  padding-bottom: 4px;
+}
+
+.Post .PostCommentArea .PersonalComment span {
+  font-weight: 500;
+}
+
+.Post .PostCommentArea .PersonalComment {
+  padding: 0px 14px;
+}

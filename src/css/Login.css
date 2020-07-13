@@ -1,0 +1,52 @@
+.Login {
+  background-color: #fafafa;
+
+  min-height: 91vh;
+
+  position: relative;
+}
+
+.Login .Wrapper {
+  width: 30%;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Login .Wrapper form {
+  background-color: #ffffff;
+
+  padding: 40px;
+
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+}
+
+.Login .Wrapper form .ImgWrapper {
+  text-align: center;
+}
+
+.Login .Wrapper form img {
+  width: 75%;
+}
+
+.Login .Wrapper form button {
+  width: 100%;
+}
+
+.Login .Wrapper .ExtraBox {
+  background-color: #ffffff;
+
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+
+  margin-top: 10px;
+}
+
+.Login .Wrapper .ExtraBox p {
+  margin: 0px;
+  padding: 14px 0px;
+  text-align: center;
+}

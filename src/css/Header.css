@@ -1,0 +1,26 @@
+.Header {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.Header .collapse ul {
+  margin-right: 0px !important;
+  margin-left: auto;
+}
+
+.Header .collapse ul .nav-item li a {
+  text-decoration: none;
+}
+
+.Header .collapse ul .nav-item button {
+  background-color: #ffffff;
+  padding: 0px;
+  border: none;
+}
+
+.Header .collapse ul .nav-item button:focus {
+  outline: none;
+}
+
+.Header .container nav .navbar-collapse {
+  position: relative;
+}
